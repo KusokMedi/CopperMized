@@ -1,0 +1,21 @@
+name: Validate modpack
+
+on:
+  push:
+    paths:
+      - "*.mrpack"
+      - "scripts/validate_mrpack.py"
+  pull_request:
+    paths:
+      - "*.mrpack"
+      - "scripts/validate_mrpack.py"
+
+jobs:
+  validate-mrpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate .mrpack files
+        run: python3 scripts/validate_mrpack.py

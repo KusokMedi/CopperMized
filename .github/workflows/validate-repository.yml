@@ -1,0 +1,25 @@
+name: Validate repository
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check required files
+        run: |
+          set -e
+          for file in README.md CHANGELOG.md LICENSE CONTRIBUTING.md CODE_OF_CONDUCT.md SECURITY.md INCLUDED-MODS.md .gitignore AGENTS.md; do
+            if [ ! -s "$file" ]; then
+              echo "Missing or empty required file: $file"
+              exit 1
+            fi
+          done
+
+      - name: Check Python syntax
+        run: python3 -m py_compile scripts/validate_mrpack.py

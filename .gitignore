@@ -1,0 +1,15 @@
+# Minecraft mod binaries (mods are downloaded by the launcher, not stored in Git)
+*.jar
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+"><|end|><|start|><|start|>assistant to=write<|channel|>analysis <|constrain|>xml<|message|><rfl:parameter name="path">
+/home/kusokmedi/Documents/GitHub/CopperMized/README.md
