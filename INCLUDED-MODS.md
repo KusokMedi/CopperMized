@@ -91,15 +91,15 @@ Total entries: 88 (76 mods, 12 resource packs)
 
 | # | File | Environment | Download |
 |---:|---|---|---|
-| 1 | `Default-Dark-Mode-26.3-2026.9.0.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/6SLU7tS5/versions/1x3lSLAL/Default-Dark-Mode-26.3-2026.9.0.zip) |
-| 2 | `Fast Better Grass.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/dspVZXKP/versions/Alviiov6/Fast%20Better%20Grass.zip) |
-| 3 | `Icon Branding Remover - For 1.8-1.21.8.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/7Rq0ipFz/versions/OXZb3ihp/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip) |
-| 4 | `Icons Compats.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/l4AXiRxt/versions/YIV5gQhV/Icons%20Compats.zip) |
-| 5 | `Icons v.1.14.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/O7z3QKAG/versions/5mLQJaIu/Icons%20v.1.14.zip) |
-| 6 | `Icons-Additions-1.2.1.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/2aHPb3sX/versions/m9yefrGs/Icons-Additions-1.2.1.zip) |
-| 7 | `Low Fire.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/1jZGHJ05/versions/RP4ozzMC/Low%20Fire.zip) |
-| 8 | `Low Shield.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/CZrLuVQo/versions/4LeYKTYX/Low%20Shield.zip) |
-| 9 | `Minimal-Rain and-Snow-2.2.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/9aE6Ib8a/versions/Z55eHlrO/Minimal-Rain%20and-Snow-2.2.zip) |
-| 10 | `SodiumTranslations.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/yfDziwn1/versions/Coni1sOB/SodiumTranslations.zip) |
-| 11 | `Visible Shield Cooldown v2.0.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/oRTeQDkt/versions/9yXqkwLh/Visible%20Shield%20Cooldown%20v2.0.zip) |
-| 12 | `Visible.zip` | client: required, server: not needed on server | [download](https://cdn.modrinth.com/data/ekgBRG60/versions/9CZ88HAA/Visible.zip) |
+| 1 | `Default-Dark-Mode-26.3-2026.9.0.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/6SLU7tS5/versions/1x3lSLAL/Default-Dark-Mode-26.3-2026.9.0.zip) |
+| 2 | `Fast Better Grass.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/dspVZXKP/versions/Alviiov6/Fast%20Better%20Grass.zip) |
+| 3 | `Icon Branding Remover - For 1.8-1.21.8.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/7Rq0ipFz/versions/OXZb3ihp/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip) |
+| 4 | `Icons Compats.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/l4AXiRxt/versions/YIV5gQhV/Icons%20Compats.zip) |
+| 5 | `Icons v.1.14.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/O7z3QKAG/versions/5mLQJaIu/Icons%20v.1.14.zip) |
+| 6 | `Icons-Additions-1.2.1.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/2aHPb3sX/versions/m9yefrGs/Icons-Additions-1.2.1.zip) |
+| 7 | `Low Fire.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/1jZGHJ05/versions/RP4ozzMC/Low%20Fire.zip) |
+| 8 | `Low Shield.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/CZrLuVQo/versions/4LeYKTYX/Low%20Shield.zip) |
+| 9 | `Minimal-Rain and-Snow-2.2.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/9aE6Ib8a/versions/Z55eHlrO/Minimal-Rain%20and-Snow-2.2.zip) |
+| 10 | `SodiumTranslations.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/yfDziwn1/versions/Coni1sOB/SodiumTranslations.zip) |
+| 11 | `Visible Shield Cooldown v2.0.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/oRTeQDkt/versions/9yXqkwLh/Visible%20Shield%20Cooldown%20v2.0.zip) |
+| 12 | `Visible.zip` | client: required, server: not needed | [download](https://cdn.modrinth.com/data/ekgBRG60/versions/9CZ88HAA/Visible.zip) |
