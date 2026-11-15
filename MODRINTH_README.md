@@ -4,7 +4,7 @@
 
 It combines carefully selected client-side mods, useful tweaks, and visual improvements to make your gameplay smoother, more comfortable, and more enjoyable — without straying too far from the original Minecraft experience.
 
-##  Features
+## Features
 
 - Performance and FPS optimizations
 - Quality-of-life improvements
@@ -12,7 +12,7 @@ It combines carefully selected client-side mods, useful tweaks, and visual impro
 - Lightweight and carefully selected mods
 - Vanilla-inspired gameplay
 
-##  Compatibility
+## Compatibility
 
 - **Mod Loader:** Fabric
 - **Minecraft Version:** Latest stable version (26.3)
@@ -20,7 +20,7 @@ It combines carefully selected client-side mods, useful tweaks, and visual impro
 
 For the full list of included mods and resource packs, see [INCLUDED-MODS.md](https://github.com/KusokMedi/CopperMized/blob/master/INCLUDED-MODS.md).
 
-## 🆘 Help
+## Help
 
 Need help, have a question, or found an issue? Feel free to contact me directly:
 
@@ -29,13 +29,13 @@ Need help, have a question, or found an issue? Feel free to contact me directly:
 - **Signal:** kusokmedi.52
 - More contact links are available [on my website](https://kusokmedi.lat/).
 
-##  About the Creator
+## About the Creator
 
 CopperMized is independently developed by **KusokMedi**.
 
 Interested in my other projects or want to request something? Visit my website to learn more about my work, projects, and services: [kusokmedi.lat](https://kusokmedi.lat/).
 
-##  AI Disclosure
+## AI Disclosure
 
 The modpack itself — including mod selection, configuration, and curation — was assembled manually by its human creator, KusokMedi. No AI was used to automatically generate or assemble the modpack.
 
