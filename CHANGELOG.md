@@ -14,3 +14,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Validation script for Modrinth `.mrpack` files.
 - Included mod list generated from `CopperMized 26.3.mrpack`.
 - Initial modpack artifact `CopperMized 26.3.mrpack`.
+
+## [1.0.1] - 2026-11-16
+
+### Changed
+
+- Updated modpack configuration (MouseTweaks, render distance, Smooth Swapping, Axiom, Jade).
+- Refreshed modpack artifact `CopperMized 26.3.mrpack` (versionId 1.0.1).
+
+### Removed
+
+- User-specific data from the modpack artifact (server list, waypoints, FancyMenu last world, voice chat caches).
