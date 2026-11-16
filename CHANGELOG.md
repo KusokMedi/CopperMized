@@ -22,6 +22,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Updated modpack configuration (MouseTweaks, render distance, Smooth Swapping, Axiom, Jade).
 - Refreshed modpack artifact `CopperMized 26.3.mrpack` (versionId 1.0.1).
 
+### Fixed
+
+- Restored `servers.dat` and `servers.dat_old` advertising the official GridMC server (`adequately-valet.tun.ply.gg`) with auto-downloaded resource packs. These files are part of the modpack, not user data.
+
 ### Removed
 
-- User-specific data from the modpack artifact (server list, waypoints, FancyMenu last world, voice chat caches).
+- User-specific data from the modpack artifact (waypoints, FancyMenu last world, voice chat caches).
