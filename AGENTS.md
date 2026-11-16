@@ -22,6 +22,7 @@ CopperMized is a lightweight Fabric client-side Minecraft modpack focused on per
 - Commit messages follow Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`, ...).
 - License choice is pending; do not finalize or overwrite `LICENSE` without user confirmation.
 - `overrides/servers.dat` and `overrides/servers.dat_old` are part of the modpack: they advertise the official GridMC server (`adequately-valet.tun.ply.gg`) with auto-downloaded resource packs. Do not remove, clear, or treat them as user data when cleaning the instance or editing the `.mrpack`.
+- Release tags use the `vX.X.X` format (for example `v1.0`, `v1.0.1`). Release titles follow `CopperMized [ClientVersion] (vX.X.X)` (for example `CopperMized 26.3 (v1.0.1)`). Do not create tags without the `v` prefix.
 
 ## Validation
 
