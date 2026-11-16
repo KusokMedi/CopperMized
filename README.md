@@ -1,5 +1,7 @@
 # CopperMized
 
+[![License](https://img.shields.io/github/license/KusokMedi/CopperMized)](LICENSE) [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink)](https://github.com/sponsors/KusokMedi) [![Patreon](https://img.shields.io/badge/Patreon-kusokmedi-orange)](https://www.patreon.com/kusokmedi)
+
 CopperMized is a lightweight Fabric modpack designed to improve Minecraft through performance optimizations and quality-of-life enhancements.
 
 It combines carefully selected client-side mods, useful tweaks, and visual improvements to make your gameplay smoother, more comfortable, and more enjoyable without straying too far from the original Minecraft experience.
@@ -65,3 +67,10 @@ CopperMized is independently developed by KusokMedi.
 Interested in my other projects or want to request something? Visit my website to learn more about my work, projects, and services:
 
 https://kusokmedi.lat/
+
+## Support
+
+If you find this project useful, consider supporting:
+
+- GitHub Sponsors: https://github.com/sponsors/KusokMedi
+- Patreon: https://www.patreon.com/kusokmedi
